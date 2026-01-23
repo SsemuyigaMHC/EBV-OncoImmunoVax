@@ -1,0 +1,6 @@
+vaccine,average_adjuvant,vaxign_ml_score,localization,adhesin_prob,tm_helices,tumor_score,tumor_prediction,virus_score,virus_prediction
+Vaccine4,-912.648707925,90.9,membrane,0.573,1,0.7692,Probable Antigen,0.4212,Probable Antigen
+Vaccine2,-886.382471475,90.8,membrane,0.661,1,0.7626,Probable Antigen,0.4279,Probable Antigen
+Vaccine7,-872.4542956,90.9,membrane,0.589,1,0.7801,Probable Antigen,0.4427,Probable Antigen
+Vaccine9,-866.2903623249999,90.9,membrane,0.608,1,0.7898,Probable Antigen,0.4817,Probable Antigen
+Vaccine12,-833.1983858000001,90.5,membrane,0.65,1,0.9997,Probable Antigen,0.4686,Probable Antigen
