@@ -1,6 +1,0 @@
-Position,Residue,Score,Assignment,Protein_Source,Start,End,Peptide
-854,E,0.927,,gB,851.0,857.0,GEAETEF
-853,A,0.95,,gB,850.0,856.0,LGEAETE
-852,E,1.007,,gB,849.0,855.0,LLGEAET
-851,G,1.029,,gB,848.0,854.0,ALLGEAE
-850,L,1.06,,gB,847.0,853.0,AALLGEA
