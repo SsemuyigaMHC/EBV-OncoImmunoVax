@@ -1,0 +1,94 @@
+1. Results for protein Vaccine1:
+Most similar protein: sp|Q96QS3|ARX_HUMAN Homeobox protein ARX OS=Homo sapiens GN=ARX PE=1 SV=1
+Tanimoto coefficient: 0.6891891891891891
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+2. Results for protein Vaccine10:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6891891891891891
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+3. Results for protein Vaccine11:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6741071428571429
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+4. Results for protein Vaccine12:
+Most similar protein: sp|Q96QS3|ARX_HUMAN Homeobox protein ARX OS=Homo sapiens GN=ARX PE=1 SV=1
+Tanimoto coefficient: 0.6163793103448276
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+5. Results for protein Vaccine13:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.7730496453900709
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+6. Results for protein Vaccine14:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.7899761336515513
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+7. Results for protein Vaccine15:
+Most similar protein: gi|398830|emb|CAA52753.1| Phlp5 [Phleum pratense]
+Tanimoto coefficient: 0.6816143497757847
+Classification based on the most similar protein: Probable ALLERGEN
+
+
+8. Results for protein Vaccine16:
+Most similar protein: sp|Q40240|MPA5A_LOLPR Major pollen allergen Lol p 5a OS=Lolium perenne GN=LOLPIB PE=1 SV=2
+Tanimoto coefficient: 0.6778523489932886
+Classification based on the most similar protein: Probable ALLERGEN
+
+
+9. Results for protein Vaccine2:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6968325791855203
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+10. Results for protein Vaccine3:
+Most similar protein: sp|Q96QS3|ARX_HUMAN Homeobox protein ARX OS=Homo sapiens GN=ARX PE=1 SV=1
+Tanimoto coefficient: 0.6891891891891891
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+11. Results for protein Vaccine4:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6741071428571429
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+12. Results for protein Vaccine5:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6968325791855203
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+13. Results for protein Vaccine6:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6968325791855203
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+14. Results for protein Vaccine7:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6741071428571429
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+15. Results for protein Vaccine8:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.6666666666666666
+Classification based on the most similar protein: Probable NON-ALLERGEN
+
+
+16. Results for protein Vaccine9:
+Most similar protein: sp|O60641|AP180_HUMAN Clathrin coat assembly protein AP180 OS=Homo sapiens GN=SNAP91 PE=1 SV=2
+Tanimoto coefficient: 0.7523364485981309
+Classification based on the most similar protein: Probable NON-ALLERGEN
