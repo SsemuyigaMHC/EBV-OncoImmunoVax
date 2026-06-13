@@ -1,0 +1,17 @@
+seq_num,protein,Intended,Redundant Intended,Junction-derived,Linker-only,Novel,junction_burden
+1,Vaccine1,101,1822,0,0,0,0.0
+2,Vaccine2,75,1881,0,0,0,0.0
+3,Vaccine3,62,1577,0,0,0,0.0
+4,Vaccine4,52,1394,0,0,0,0.0
+5,Vaccine5,67,1473,0,0,0,0.0
+6,Vaccine6,68,1504,0,0,0,0.0
+7,Vaccine7,113,1919,0,0,0,0.0
+8,Vaccine8,139,1891,0,0,0,0.0
+9,Vaccine9,77,1847,0,0,0,0.0
+10,Vaccine10,77,1846,0,0,0,0.0
+11,Vaccine11,74,1849,0,0,0,0.0
+12,Vaccine12,73,1850,0,0,0,0.0
+13,Vaccine13,73,1850,0,0,0,0.0
+14,Vaccine14,75,1848,0,0,0,0.0
+15,Vaccine15,75,1881,0,0,0,0.0
+16,Vaccine16,88,304,0,0,0,0.0
