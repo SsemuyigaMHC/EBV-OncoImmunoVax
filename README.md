@@ -210,7 +210,8 @@ The pipeline uses publicly available computational resources including:
 If this repository contributes to your research, please cite:
 
 **Ssemuyiga Charles et al.**  
-*Ssemuyiga, C., & Naddamba, A. (2026). Systems-Level Design of a Multi-Epitope Immunotherapeutic Vaccine Targeting EBV-Associated Oncogenesis. https://doi.org/10.21203/RS.3.RS-9432334/V1*
+*Ssemuyiga, C., & Naddamba, A. (2026). Systems-Level Design of a Multi-Epitope Immunotherapeutic Vaccine Targeting EBV-Associated Oncogenesis.*
+https://doi.org/10.21203/RS.3.RS-9432334/V1
 ---
 
 # License
