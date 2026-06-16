@@ -45,6 +45,7 @@ The workflow integrates multiple computational vaccinology approaches:
 ---
 
 # Computational Workflow
+![image](https://github.com/SsemuyigaMHC/EBV-OncoImmunoVax/blob/main/results/Flow.png)
 
 ---
 
@@ -178,6 +179,10 @@ Leading candidates:
 | Construct 10 | Strong immune durability profile |
 | Construct 8 | Favorable developability characteristics |
 | Construct 12 | Strong antigenicity and solubility profile |
+
+![image](https://github.com/SsemuyigaMHC/EBV-OncoImmunoVax/blob/main/results/Fina_rank/Integrated_Ranking_Heatmap.png)
+
+![image](https://github.com/SsemuyigaMHC/EBV-OncoImmunoVax/blob/main/results/Fina_rank/Global_Ranking_Barplot.png)
 
 ---
 
